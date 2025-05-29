@@ -1,1 +1,0 @@
-# Sanke-game1
